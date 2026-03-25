@@ -68,6 +68,4 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 |--------|--------|--------|
 | ![print4](link-da-imagem) | ![print5](link-da-imagem) | ![print6](link-da-imagem) |
 
----
 
-## 📁 Repositório
