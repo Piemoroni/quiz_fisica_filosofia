@@ -60,7 +60,7 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 
 ## 🖼️ Prints do Quiz
 
-| Tela 1 | Tela 2 | Tela 3 |
+| Tela Inicial | Tela 2 | Tela 3 |
 |--------|--------|--------|
 | ![print1](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/telaInicial.jpg) | ![print2](link-da-imagem) | ![print3](link-da-imagem) |
 
