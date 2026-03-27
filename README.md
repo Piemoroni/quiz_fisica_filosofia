@@ -80,3 +80,23 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 ---
 
 ## Prints do Quiz de Física
+
+
+| Tela Inicial | Questão 1 | Questão 2 |
+|--------|--------|--------|
+| ![print1](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/telaInicial.jpg) | ![print2](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q1fis.jpg) | ![print3](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q2fis.jpg) |
+
+
+| Questão 3 | Questão 4 | Questão 5 |
+|--------|--------|--------|
+| ![print4](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q3fis.jpg) | ![print5](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q4fis.jpg) | ![print6](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q5fis.jpg) |
+
+
+| Questão 6 | Questão 7 | Questão 8 |
+|--------|--------|--------|
+| ![print7](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q6fis.jpg) | ![print8](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q7fis.jpg) | ![print9](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q8fis.jpg) |
+
+
+| Questão 9 | Questão 10 | Tela Final |
+|--------|--------|--------|
+| ![print10](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q9fis.jpg) | ![print11](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/Q10fis.jpg) | ![print12](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFisica/telaFinal.jpg) |
