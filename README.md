@@ -58,15 +58,19 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 
 ---
 
-## 🖼️ Prints do Quiz
+## 🖼️ Prints do Quiz de Filosofia
 
 
-| Tela Inicial | Tela 2 | Tela 3 |
+| Tela Inicial | Questão 1 | Questão 2 |
 |--------|--------|--------|
 | ![print1](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/telaInicial.jpg) | ![print2](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q1filo.jpg) | ![print3](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q2filo.jpg) |
 
-| Tela 4 | Tela 5 | Tela 6 |
+| Questão 3 | Questão 4 | Questão 5 |
 |--------|--------|--------|
-| ![print4](link-da-imagem) | ![print5](link-da-imagem) | ![print6](link-da-imagem) |
+| ![print4](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q3filo.jpg) | ![print5](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q4filo.jpg) | ![print6](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q5filo.jpg) |
+
+| Questão 6 | Questão 7 | Questão 8 |
+|--------|--------|--------|
+| ![print7](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q6filo.jpg) | ![print8](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q7filo.jpg) | ![print9](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q8filo.jpg) |
 
 
