@@ -60,7 +60,6 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 
 ## 🖼️ Prints do Quiz
 
-<img src="https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/telaInicial.jpg" width="300px">
 
 | Tela Inicial | Tela 2 | Tela 3 |
 |--------|--------|--------|
