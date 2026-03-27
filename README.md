@@ -60,6 +60,8 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 
 ## Prints do Quiz de Filosofia
 
+---
+
 
 | Tela Inicial | Questão 1 | Questão 2 |
 |--------|--------|--------|
@@ -80,6 +82,9 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 ---
 
 ## Prints do Quiz de Física
+
+
+---
 
 
 | Tela Inicial | Questão 1 | Questão 2 |
