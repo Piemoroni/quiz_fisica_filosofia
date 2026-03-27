@@ -63,7 +63,7 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 
 | Tela Inicial | Tela 2 | Tela 3 |
 |--------|--------|--------|
-| ![print1](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/telaInicial.jpg) | ![print2]([link-da-imagem](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q1filo.jpg) | ![print3](link-da-imagem) |
+| ![print1](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/telaInicial.jpg) | ![print2](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q1filo.jpg) | ![print3](link-da-imagem) |
 
 | Tela 4 | Tela 5 | Tela 6 |
 |--------|--------|--------|
