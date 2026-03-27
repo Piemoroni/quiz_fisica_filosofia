@@ -1,6 +1,6 @@
-# 🎯 Quiz Física e Filosofia
+# Quiz Física e Filosofia
 
-## 📚 Introdução
+## Introdução
 Este trabalho foi sugerido pelo professor Wellington do SENAI, com o objetivo de desenvolver um quiz contendo 10 questões sobre uma matéria escolhida.
 
 O projeto foi dividido entre os grupos:
@@ -11,7 +11,7 @@ O objetivo principal é revisar conteúdos de nível fácil a difícil de forma 
 
 ---
 
-## 👨‍💻 Integrantes do Grupo
+## Integrantes do Grupo
 - Alice Costa
 - Letícia Doff
 - Natália Marangoni
@@ -20,26 +20,26 @@ O objetivo principal é revisar conteúdos de nível fácil a difícil de forma 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - MIT App Inventor  
 - Arquivo `.apk`  
 - Arquivo `.aia`  
 
 ---
 
-## 🧪 Testes com Professores
+## Testes com Professores
 
-### 👨‍🏫 Professores que testaram:
+### Professores que testaram:
 - Rafael  
 - Ederson  
 
-### 📊 Resultados das Primeiras Tentativas:
+### Resultados das Primeiras Tentativas:
 - Rafael: **10/10**  
 - Ederson: **9/10**  
 
 ---
 
-## 💬 Opinião dos Professores
+## Opinião dos Professores
 
 **Rafael:**  
 Gostou muito do quiz, destacou que é um ótimo jeito de revisar matérias antigas. Amou a interface e achou o uso simples e intuitivo.
@@ -49,7 +49,7 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 
 ---
 
-## 💡 Sugestões de Melhoria
+## Sugestões de Melhoria
 - Adicionar mais questões  
 - Melhorar ainda mais a interface  
 - Implementar feedback ao final de cada pergunta
@@ -58,7 +58,7 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 
 ---
 
-## 🖼️ Prints do Quiz de Filosofia
+## Prints do Quiz de Filosofia
 
 
 | Tela Inicial | Questão 1 | Questão 2 |
@@ -77,4 +77,6 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 |--------|--------|--------|
 | ![print10](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q9filo.jpg) | ![print11](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q10filo.jpg) | ![print12](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/telaFinal.jpg) |
 
+---
 
+## Prints do Quiz de Física
