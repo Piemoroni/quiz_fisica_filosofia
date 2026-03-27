@@ -73,4 +73,8 @@ Adorou o quiz e demonstrou muito interesse em futuramente compartilhar com outra
 |--------|--------|--------|
 | ![print7](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q6filo.jpg) | ![print8](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q7filo.jpg) | ![print9](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q8filo.jpg) |
 
+| Questão 9 | Questão 10 | Tela Final |
+|--------|--------|--------|
+| ![print10](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q9filo.jpg) | ![print11](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/Q10filo.jpg) | ![print12](https://github.com/Piemoroni/quiz_fisica_filosofia/blob/main/printsFilosofia/telaFinal.jpg) |
+
 
